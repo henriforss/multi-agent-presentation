@@ -14,7 +14,7 @@ load_dotenv()
 
 
 # Variables
-MODEL = "gpt-4-mini"
+MODEL = os.getenv("MODEL")
 
 
 # Agent types

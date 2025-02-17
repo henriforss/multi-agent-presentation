@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 1rem;
+    max-width: 500px;
+}
+
+h1 {
+    color: teal;
+    font-size: 2em;
+}
+
+h2 {
+    color: teal;
+    font-size: 1.5em;
+}
+
+.quiz {
+    background-color: lightgray;
+    padding: 1rem;
+
+    details {
+        margin: 1rem 0;
+    }
+}
+
+img {
+    width: 100%;
+}
